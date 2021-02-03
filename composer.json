@@ -1,5 +1,5 @@
 {
-    "name": "alibabacloud/sdk",
+    "name": "everalan/openapi-sdk",
     "homepage": "https://www.alibabacloud.com/",
     "description": "Alibaba Cloud SDK for PHP - Easier to Use Alibaba Cloud in your PHP project",
     "keywords": [
